@@ -1,0 +1,11 @@
+{
+  "title": "Nexo",
+  "description": "",
+  "language": "pt-BR",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false
+  }
+}
