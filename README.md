@@ -2,6 +2,11 @@
 
 Interface web desenvolvida como projeto de UI/UX, com foco em proporcionar uma experiência simples, organizada e intuitiva para navegação, pesquisa e visualização de conteúdos.
 
+## Alunos:
+- Erick Cabral Dutra
+- Flaésio Henrique da Costa Castro
+- Matheus Monteles Matos
+- Raymundo Rodrigo Cunha Pereira
 
 ---
 
