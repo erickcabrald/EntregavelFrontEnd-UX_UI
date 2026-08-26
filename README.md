@@ -150,3 +150,6 @@ Após a instalação das dependências, inicie o servidor de desenvolvimento:**
 pnpm dev
 ``` 
 
+## 🔗 Links Úteis
+
+- 🎨 **Figma:** [Design de aplicativo para gamers](https://www.figma.com/make/aYy6Nk3qUdhSCJS42SUcGf/Design-de-aplicativo-para-gamers?t=y0X9DgN4ve5xCyXE-1)
