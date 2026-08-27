@@ -1,8 +1,9 @@
 # Nexo
 
-Interface web desenvolvida como projeto de UI/UX, com foco em proporcionar uma experiência simples, organizada e intuitiva para navegação, pesquisa e visualização de conteúdos.
+Interface web desenvolvida como projeto de UI/UX, com foco no público gamer e em proporcionar uma experiência simples, organizada e intuitiva para pesquisa, análise e comparação de produtos.
 
-## Alunos:
+## 👥 Alunos
+
 - Erick Cabral Dutra
 - Flaésio Henrique da Costa Castro
 - Matheus Monteles Matos
@@ -10,9 +11,49 @@ Interface web desenvolvida como projeto de UI/UX, com foco em proporcionar uma e
 
 ---
 
+## 📌 Sobre o projeto
+
+O Nexo é uma plataforma voltada para o público gamer, desenvolvida com o objetivo de auxiliar usuários na pesquisa e avaliação de produtos relacionados ao universo dos jogos.
+
+A proposta é reunir informações relevantes sobre os produtos em uma interface organizada, permitindo que o usuário consulte especificações, avaliações e outras informações antes de decidir realizar uma compra.
+
+O projeto foi desenvolvido durante a trilha Front-end, na atividade de Design de Experiência, aplicando conceitos de UI e UX para criar uma experiência de navegação simples, intuitiva e centrada nas necessidades do usuário.
+
+---
+
+## 🎯 Problema
+
+Um dos principais problemas enfrentados por consumidores do público gamer é a dificuldade de descobrir se determinado produto realmente vale a pena antes de realizar uma compra.
+
+A grande quantidade de produtos disponíveis, diferentes especificações técnicas, preços e avaliações pode tornar o processo de decisão confuso e demorado.
+
+Além disso, muitas vezes o usuário precisa pesquisar informações em diferentes sites para conseguir entender se um produto atende às suas necessidades e se apresenta um bom custo-benefício.
+
+Dessa forma, o Nexo parte da seguinte questão:
+
+> **Como facilitar a decisão de compra de produtos gamers, reunindo informações relevantes em um único lugar e permitindo que o usuário avalie se o produto realmente vale a pena?**
+
+---
+
+## 💡 Solução proposta
+
+Como solução, foi desenvolvido o Nexo, uma plataforma que centraliza informações sobre produtos voltados ao público gamer e apresenta esses dados de maneira organizada e acessível.
+
+A plataforma permite que o usuário:
+
+- Pesquise produtos;
+- Visualize informações e especificações;
+- Consulte avaliações de outros usuários;
+- Analise as características dos produtos;
+- Reúna informações necessárias para tomar uma decisão de compra mais consciente.
+
+A solução busca reduzir o tempo gasto em pesquisas e facilitar a compreensão das informações, permitindo que o usuário tenha mais segurança antes de decidir pela compra.
+
+---
+
 ## 🎯 Objetivo
 
-O Nexo tem como objetivo apresentar uma interface moderna e intuitiva, permitindo que o usuário navegue pela plataforma, pesquise conteúdos, visualize informações detalhadas e gerencie seu perfil.
+O Nexo tem como objetivo apresentar uma interface moderna e intuitiva, permitindo que o usuário navegue pela plataforma, pesquise produtos, visualize informações detalhadas e gerencie seu perfil.
 
 O projeto foi pensado considerando princípios de:
 
@@ -43,14 +84,15 @@ O projeto apresenta as seguintes funcionalidades e telas:
 - Página inicial
 - Sistema de login
 - Cadastro de usuário
-- Pesquisa de conteúdos
-- Visualização de especificações/detalhes
+- Pesquisa de produtos
+- Visualização de especificações e detalhes
+- Visualização de avaliações de usuários
 - Página de perfil do usuário
 - Navegação entre as diferentes áreas da aplicação
 
 ---
 
-# 🖥️ Telas do projeto
+# 🖥️ Telas desenvolvidas
 
 ## 🏠 Página Inicial
 
@@ -58,7 +100,7 @@ O projeto apresenta as seguintes funcionalidades e telas:
 
 A página inicial funciona como o principal ponto de entrada da aplicação.
 
-Nela, o usuário pode visualizar os conteúdos disponíveis e acessar diferentes áreas do sistema. A interface utiliza uma organização baseada em cards e elementos visuais para facilitar a identificação e navegação pelos conteúdos.
+Nela, o usuário pode visualizar os produtos disponíveis e acessar diferentes áreas do sistema. A interface utiliza uma organização baseada em cards e elementos visuais para facilitar a identificação e navegação pelos produtos.
 
 A página também apresenta a identidade visual do Nexo e serve como ponto central para acessar os recursos da plataforma.
 
@@ -68,11 +110,11 @@ A página também apresenta a identidade visual do Nexo e serve como ponto centr
 
 ![Tela de Pesquisa](public/telaPesquisa.png)
 
-A tela de pesquisa permite que o usuário encontre conteúdos específicos dentro da plataforma.
+A tela de pesquisa permite que o usuário encontre produtos específicos dentro da plataforma.
 
 A interface foi organizada para apresentar os resultados de maneira clara, facilitando a comparação e identificação dos itens encontrados.
 
-Essa tela tem como principal objetivo reduzir o tempo necessário para o usuário encontrar aquilo que procura.
+Essa tela tem como principal objetivo reduzir o tempo necessário para o usuário encontrar o produto que procura.
 
 ---
 
@@ -80,11 +122,11 @@ Essa tela tem como principal objetivo reduzir o tempo necessário para o usuári
 
 ![Página de Especificações](public/espeficacoes.png)
 
-A página de especificações apresenta informações detalhadas sobre um determinado conteúdo e avaliações de outros usuarios
+A página de especificações apresenta informações detalhadas sobre determinado produto, incluindo suas características e avaliações de outros usuários.
 
-Ela organiza diferentes características e informações em uma estrutura visual que facilita a leitura e compreensão.
+Ela organiza diferentes informações em uma estrutura visual que facilita a leitura e compreensão.
 
-O objetivo dessa tela é permitir que o usuário analise as informações antes de tomar uma decisão ou realizar uma ação dentro da plataforma.
+O objetivo dessa tela é permitir que o usuário analise o produto antes de tomar uma decisão de compra.
 
 ---
 
@@ -120,6 +162,15 @@ Ela concentra informações do usuário em um espaço próprio, permitindo uma e
 
 ---
 
+## 🎨 Projeto no Figma
+
+O protótipo e o desenvolvimento do projeto podem ser acessados pelo link:
+
+👉 **[Acessar projeto no Figma](https://www.figma.com/make/aYy6Nk3qUdhSCJS42SUcGf/Design-de-aplicativo-para-gamers?t=GjACv2riTL0kOzQP-1)**
+
+---
+
+
 ## 🚀 Como executar o projeto
 
 ### Pré-requisitos
@@ -154,7 +205,3 @@ Após a instalação das dependências, inicie o servidor de desenvolvimento:**
 ```bash
 pnpm dev
 ``` 
-
-## 🔗 Links Úteis
-
-- 🎨 **Figma:** [Design de aplicativo para gamers](https://www.figma.com/make/aYy6Nk3qUdhSCJS42SUcGf/Design-de-aplicativo-para-gamers?t=y0X9DgN4ve5xCyXE-1)
